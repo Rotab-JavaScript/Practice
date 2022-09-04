@@ -15,7 +15,7 @@
 
 
 
-//To recognise each box, we need the following steps
+//To recognise each box, we need the following steps/process
 const redbtn = document.getElementById("redbox")
 const yellowbtn = document.getElementById("yellowbox")
 const greenbtn = document.getElementById("greenbox")
@@ -24,7 +24,7 @@ const greenbtn = document.getElementById("greenbox")
 // yellowbtn.onclick = () => console.log("you clicked on yellow")
 // greenbtn.onclick = () => console.log("you clicked on green")
 
-//LOOPS THROUGH THE BOXES OR ITEM
+//LOOPS THROUGH THE BOXES OR ITEMS 
 
 const btns = document.querySelectorAll(".squareColor")
 
