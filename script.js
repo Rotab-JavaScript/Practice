@@ -24,7 +24,7 @@ const greenbtn = document.getElementById("greenbox")
 // yellowbtn.onclick = () => console.log("you clicked on yellow")
 // greenbtn.onclick = () => console.log("you clicked on green")
 
-//LOOPS THROUGH THE BOXES OR ITEMS
+//LOOPS THROUGH THE BOXES OR ITEM
 
 const btns = document.querySelectorAll(".squareColor")
 
